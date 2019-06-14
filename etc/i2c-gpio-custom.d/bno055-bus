@@ -1,0 +1,2 @@
+# Internal Atomic Pi BNO-055 I2C bus, configured to be /dev/i2c-50
+50,476,480

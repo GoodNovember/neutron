@@ -1,0 +1,46 @@
+~ /home/atomicpi/doc/
+~ /home/atomicpi/samples/
+
++ /usr/bin/atomicpi-version
++ /usr/bin/atomicpi-base-system
++ /usr/bin/atomicpi-make-openocd-config
+
++ /usr/lib/atomicpi.sh
++ /usr/lib/gpio-present.sh
++ /usr/lib/i2c-gpio-custom-filter.sh
++ /usr/lib/spi-gpio-custom-filter.sh
++ /usr/lib/node/atomicpi.js
++ /usr/lib/python2.7/dist-packages/atomicpi.py
+
++ /usr/sbin/atomicpi-hold-mic
++ /usr/sbin/atomicpi-hold-xmos
++ /usr/sbin/atomicpi-reset-xmos
++ /usr/sbin/efi-keep-current-boot
++ /usr/sbin/gpio-custom-bus-modprobe
++ /usr/sbin/growroot
++ /usr/sbin/mmc-status
+
++ /usr/share/atomicpi-base-system.txt
++ /usr/share/atomicpi-version.txt
+
+~ /usr/src/
+~ /usr/src/i2c-gpio-custom-0.1.1
++ /usr/src/spi-gpio-custom-0.1
+
++ /etc/default/grub.d/
+~ /etc/initramfs-tools/
++ /etc/i2c-gpio-custom.d/bno055-bus
+0 /etc/i2c-gpio-custom.d/README
++ /etc/modules-load.d/cups-filters.conf
++ /etc/modules-load.d/i2c-dev.conf
++ /etc/modules-load.d/spi-dev.conf
++ /etc/modules-load.d/modules.conf
+~ /etc/spi-gpio-custom.d/
++ /etc/sudoers.d/atomicpi
+~ /etc/sysctl.d/
++ /etc/systemd/system/atomicpi-hold-mic.service
++ /etc/systemd/system/atomicpi-hold-xmos.service
++ /etc/systemd/system/efi-keep-current-boot.service
++ /etc/systemd/system/growroot.service
++ /etc/systemd/system/i2c-gpio-custom.service
++ /etc/systemd/system/spi-gpio-custom.service
